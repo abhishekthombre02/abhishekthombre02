@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhishekthombre02
-- 👀 I’m a Front End Developer
+- 👀 I’m intrested in Full Stack Development
 - 🌱 I’m currently learning Front End Development
 - 📫 How to reach me abhishekthombre25@gmail.com
 
