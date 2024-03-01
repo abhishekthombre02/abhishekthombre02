@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhishekthombre02
 - 👀 I’m intrested in Full Stack Development
-- 🌱 I’m currently learning Front End Development
+- 🌱 I’m Currently Learning Front-End Frameworks
 - 📫 How to reach me abhishekthombre25@gmail.com
 
 <!---
